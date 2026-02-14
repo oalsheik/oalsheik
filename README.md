@@ -1,12 +1,12 @@
 # 🌐 Osama Bilal Al-Sheikha
 
 ```
- ╔═══════════════════════════════════════════════════════════╗
- ║                                                           ║
- ║        Network Engineer | Cloud Enthusiast                ║
- ║     Cisco TAC | Data Center Routing & Switching           ║
- ║                                                           ║
- ╚═══════════════════════════════════════════════════════════╝
+                    ╔═══════════════════════════════════════════════════════════╗
+                    ║                                                           ║
+                    ║        Network Engineer | Cloud Enthusiast                ║
+                    ║     Cisco TAC | Data Center Routing & Switching           ║
+                    ║                                                           ║
+                    ╚═══════════════════════════════════════════════════════════╝
 ```
 
 ---
