@@ -1,12 +1,12 @@
 # 🌐 Osama Bilal Al-Sheikha
 
 ```
-                    ╔═══════════════════════════════════════════════════════════╗
-                    ║                                                           ║
-                    ║        Network Engineer | Cloud Enthusiast                ║
-                    ║     Cisco TAC | Data Center Routing & Switching           ║
-                    ║                                                           ║
-                    ╚═══════════════════════════════════════════════════════════╝
+                        ╔═══════════════════════════════════════════════════════════╗
+                        ║                                                           ║
+                        ║        Network Engineer | Cloud Enthusiast                ║
+                        ║     Cisco TAC | Data Center Routing & Switching           ║
+                        ║                                                           ║
+                        ╚═══════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -54,5 +54,5 @@ I'm exploring backend development basics that will be needed in my cloud journey
 Feel free to reach out if you want to collaborate or discuss anything cloud and networking related!
 
 ```
-     ~~~~ Keep Learning, Keep Growing ~~~~
+                                    ~~~~ Keep Learning, Keep Growing ~~~~
 ```
