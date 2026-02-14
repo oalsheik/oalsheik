@@ -3,8 +3,8 @@
 ```
  ╔═══════════════════════════════════════════════════════════╗
  ║                                                           ║
- ║        Network Engineer | Cloud Enthusiast              ║
- ║     Cisco TAC | Data Center Routing & Switching         ║
+ ║        Network Engineer | Cloud Enthusiast                ║
+ ║     Cisco TAC | Data Center Routing & Switching           ║
  ║                                                           ║
  ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -28,14 +28,6 @@ Hey there! I'm a **Network Engineer** at Cisco's Technical Assistance Center, sp
 ## 🌱 Currently Learning
 
 I'm actively diving into cloud basics through [LearnToCloud.guide](https://learntocloud.guide) to expand my base knowledge for cloud computing
----
-
-## 🎯 Focus Areas
-
-- ☁️ **Cloud Computing** - Deep diving into cloud infrastructure and services
-- 🔗 **Networking** - Maintaining resilient and scalable networks
-- 📡 **Data Center Solutions** - Modern DC architecture and automation
-
 ---
 
 ## 💻 Backend Development Basics
