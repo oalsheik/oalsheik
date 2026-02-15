@@ -44,6 +44,15 @@ I'm exploring backend development basics that will be needed in my cloud journey
   - Query optimization, data modeling, CRUD operations
 
 ---
+
+## 📜 Certifications
+
+- **🔷 CCNA** - Cisco Certified Network Associate
+- **☁️ AZ-900** - Microsoft Azure Fundamentals
+- **🌐 Google Technical Support Fundamentals** - Google IT Support Professional Certificate Track
+
+---
+
 ## 🐳 Kubernetes & Docker
 
 *I know enough to be dangerous... and by dangerous, I mean I can spell them. 😄*
