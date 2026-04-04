@@ -55,8 +55,6 @@ I'm exploring backend development basics that will be needed in my cloud journey
 
 ## 🐳 Kubernetes & Docker
 
-*I know enough to be dangerous... and by dangerous, I mean I can spell them. 😄*
-
 ---
 ## 💫 Let's Connect
 
